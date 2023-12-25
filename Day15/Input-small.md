@@ -1,0 +1,1 @@
+Sensor at x=2557568, y=3759110: closest beacon is at x=2594124, y=3746832
